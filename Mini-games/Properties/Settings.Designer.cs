@@ -44,5 +44,16 @@ namespace Mini_games.Properties {
                 return ((string)(this["UsersConnectionString1"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\mar31\\source\\repos\\G" +
+            "ame\\BazaDanych\\Users.mdf;Integrated Security=True;Connect Timeout=30")]
+        public string UsersConnectionString2 {
+            get {
+                return ((string)(this["UsersConnectionString2"]));
+            }
+        }
     }
 }
