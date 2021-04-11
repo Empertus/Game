@@ -1,0 +1,10 @@
+D:\Progs\VSprojects\Runner\obj\Debug\Runner.csprojAssemblyReference.cache
+D:\Progs\VSprojects\Runner\obj\Debug\Runner.Form1.resources
+D:\Progs\VSprojects\Runner\obj\Debug\Runner.Properties.Resources.resources
+D:\Progs\VSprojects\Runner\obj\Debug\Runner.csproj.GenerateResource.cache
+D:\Progs\VSprojects\Runner\obj\Debug\Runner.csproj.CoreCompileInputs.cache
+D:\Progs\VSprojects\Runner\bin\Debug\Runner.exe.config
+D:\Progs\VSprojects\Runner\bin\Debug\Runner.exe
+D:\Progs\VSprojects\Runner\bin\Debug\Runner.pdb
+D:\Progs\VSprojects\Runner\obj\Debug\Runner.exe
+D:\Progs\VSprojects\Runner\obj\Debug\Runner.pdb
